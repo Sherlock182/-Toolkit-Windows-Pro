@@ -162,7 +162,7 @@ Distribuido bajo la licencia MIT. Consulta el archivo LICENSE para más detalles
 
 Autor
 
-Nahun Montalvo R.Desarrollador y entusiasta de la automatización de sistemas Windows.LinkedIn • Twitter
+Nahun Montalvo R.Desarrollador y entusiasta de la automatización de sistemas Windows.LinkedIn • Facebook
 
 Toolkit Windows Pro nace con el objetivo de simplificar el día a día de quienes mantienen equipos Windows. ¡Pruébalo y aporta tu herramienta favorita! ✨
 
