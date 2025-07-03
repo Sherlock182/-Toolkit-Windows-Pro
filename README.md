@@ -85,8 +85,8 @@ No se requieren dependencias externas; todo el GUI es Tkinter estándar.
 Instalación (modo desarrollo)
 
 # 1. Clona el repositorio
-$ git clone https://github.com/Sherlock182/toolkit-windows-pro.git
-$ cd toolkit-windows-pro
+$ git clone https://github.com/Sherlock182/Toolkit_windows_pro.git
+$ cd toolkit_windows_pro
 
 # 2. (Opcional) Crea y activa un entorno virtual
 $ python -m venv .venv
