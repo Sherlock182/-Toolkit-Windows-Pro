@@ -85,7 +85,7 @@ No se requieren dependencias externas; todo el GUI es Tkinter estándar.
 Instalación (modo desarrollo)
 
 # 1. Clona el repositorio
-$ git clone https://github.com/tu-usuario/toolkit-windows-pro.git
+$ git clone https://github.com/Sherlock182/toolkit-windows-pro.git
 $ cd toolkit-windows-pro
 
 # 2. (Opcional) Crea y activa un entorno virtual
