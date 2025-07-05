@@ -1,4 +1,4 @@
-✨ TOOLKIT WINDOWS PRO
+✨ TOOLKIT_WINDOWS_PRO
 
 Centro integral de mantenimiento y diagnóstico para Windows, empaquetado en una interfaz moderna con Python 3 y Tkinter.
 
